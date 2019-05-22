@@ -1,0 +1,5 @@
+
+describe('Window handles', function() {
+    
+});
+    
